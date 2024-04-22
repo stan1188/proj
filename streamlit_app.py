@@ -6,7 +6,6 @@ from goals import add_arrow, plot_goal_sq
 from heat_map import get_hm
 from formation import get_formation
 from shots import get_shots
-from passing import get_pass
 
 parser = Sbopen()
 fm_rubik = FontManager('https://raw.githubusercontent.com/google/fonts/main/ofl/'
